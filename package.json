@@ -1,0 +1,15 @@
+{
+  "name": "learnnode.js",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hey"
+  },
+  "author": "KimTaeHyeon",
+  "license": "ISC"
+}
